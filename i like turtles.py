@@ -1,4 +1,4 @@
-
+# %%
 import turtle
 import random
 
@@ -13,3 +13,5 @@ for i in range(4):
     a.fd(100)
     a.rt(90)
 
+
+# %%

@@ -1,4 +1,4 @@
-
+# %%
 basePower = int(input("Base power: "))
 atk = int(input("Attacking stat: "))
 defence = int(input("Defending stat: "))

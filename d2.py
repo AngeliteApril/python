@@ -1,3 +1,4 @@
+# %%
 import random
 varOne = 5
 print(varOne)

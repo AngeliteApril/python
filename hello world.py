@@ -1,3 +1,4 @@
+# %%
 print("hello world")
 
 # there are 4 data types that we need to know
