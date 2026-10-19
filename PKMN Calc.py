@@ -13,5 +13,7 @@ print(minRoll)
 print("to")
 print(maxRoll)
 print("Percent!")
+print("Results may be off by a few percent.")
 
 
+# %%

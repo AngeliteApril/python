@@ -15,3 +15,5 @@ while compnum != usernum:
         print("BFGYABGFIYAWGUGPFBAFBVGSINRGIYASBNFIYGSULIB")
 
 
+
+# %%
