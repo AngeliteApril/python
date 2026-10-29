@@ -35,7 +35,7 @@ def printMenu():
     print("1. Math stuff like area :/")
     print("2. Golf Nerd")
     print("3. More meth stuff")
-    print("4. Soft Serve")
+    print("4. Die (Rolls)")
     print("5. Leave")
 
 printMenu()
